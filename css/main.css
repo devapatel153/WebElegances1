@@ -2494,7 +2494,7 @@ a.ttm-btn-bgcolor-skincolor:hover {
 }
 
 .footer-logo img {
-    max-height: 45px;
+    max-height: 105px;
 }
 
 .first-footer .featured-icon-box .ttm-icon.ttm-icon_element-size-md {
@@ -3654,4 +3654,5 @@ ul.info-list li i {
 
 .member-contact-form {
     padding: 30px;
+
 }
